@@ -9,7 +9,7 @@
 
 * IDE
     * Intellij IDEA 2022.2.1 (Ultimate Edition)
-      ![](screenshots/1.png)
+      ![](screenshots1.png)
 
 ---
 
@@ -18,15 +18,15 @@
 * [4. 단어 추가]
     * 작동 확인: O
     * 실행 화면:
-      ![](screenshots/2.png)
+      ![](screenshots2.png)
 * [1. 모든 단어보기]
     * 작동 확인: O
     * 실행 화면:
-      ![](screenshots/3.png)
+      ![](screenshots3.png)
 * [0. 나가기]
     * 작동 확인: O
     * 실행 화면:
-      ![](screenshots/4.png)
+      ![](screenshots4.png)
 
 
 * 소감
